@@ -3,7 +3,7 @@ version: 2
 sources:
     - name: staging
       database: dazzling-pier-338723
-      schema: trips_data_all
+      schema: trips_data_all_us
 
 
       tables:
