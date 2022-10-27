@@ -7,9 +7,9 @@ sources:
 
 
       tables:
-        - name: green_tripdata_external_table
-        - name: yellow_tripdata_external_table
-        - name: fhv_tripdata_external_table
+        - name: divvy_data_partitioned
+        - name: external_divvy_data
+        
 
 models:
     - name: stg_green_tripdata
